@@ -1,0 +1,13 @@
+title: URL Shortener
+description: URL Shortener.
+logo: /assets/img/logo.png
+show_downloads: false
+google_analytics: G-PPZKJ7PLZG
+theme: jekyll-theme-minimal
+
+permalink: /:slug/
+
+plugins:
+  - jekyll-redirect-from
+
+#repository: arthurbdiniz/short
